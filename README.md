@@ -1,9 +1,8 @@
 # Circle the Cat
-Trapping puzzle game.<br>
-The game uses the bfs algorithm for the cat to find the shortest exit path. <br>
-The game was built as part of an object-oriented programming course. <br>
-Written in C++ using the SFML library.
-<br>
+Puzzle game in which the goal is to trap the cat inside the board. <br>
+But it's not so easy - the cat is smart and knows at any time what is the shortest path to the board's edges, using <b>BFS algorithm</b>. <br>
+Strong emphasis on implementing object oriented design principles. <br>
+Written in C++ using the SFML library. <br>
 Made by @idanc7596 and me.
 <br>
 # Preview
